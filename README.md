@@ -112,7 +112,7 @@ Mas vale lembrar: para usar a herança, a relação entre as classes precisa faz
 Com isso, vemos que a Herança é muito interessante e pode ir muito mais além disso. Com ela, podemos poupar tempo evitando escrever o mesmo código mais de uma vez. Além disso, a herança ajuda a deixar nosso código mais limpo, legível e permite que possamos organizá-lo em hierarquias lógicas.
  
 -------------------------------------------------------------------------------------------
-
+Escrever a partir daqui
 -------------------------------------------------------------------------------------------
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/furtuozo/)
