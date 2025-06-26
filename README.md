@@ -1,4 +1,3 @@
-
 # POO em Java ☕
 
 Como sabemos, em Java temos 4 pilares que na verdade são os 4 pilares da Programação Orientada a Objetos (POO), o paradigma no qual o Java foi construído. Para entender e compreender Java, é necessário primeiramente entender como esses 4 pilares funcionam.
@@ -57,4 +56,6 @@ Portanto, encapsular os dados de uma classe é uma boa prática essencial para e
  
 -------------------------------------------------------------------------------------------
 
-
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/furtuozo/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofurtuozo/)
